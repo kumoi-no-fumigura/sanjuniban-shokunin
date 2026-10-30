@@ -4,7 +4,12 @@
  "repo": "kumoi-no-fumigura/sanjuniban-shokunin",
  "yomi": "さんじゅうにばんしょくにんうたあわせ",
  "category": "歌合",
- "description": null,
+ "description": {
+  "kind": "職人歌合",
+  "era": "室町時代",
+  "author": "未詳（判者 勧進聖）",
+  "desc": "千秋万歳・絵解・猿牽・菜売りなど、賤しいとされた職人・芸能民32組が「花」と「述懐」の題で歌を合わせる趣向の歌合。序と判詞は滑稽を交えて職人の暮らしを描く。"
+ },
  "editions": [
   {
    "pid": "1879575",
